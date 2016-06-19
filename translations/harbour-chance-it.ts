@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>You can find the source code at the:</source>
-        <translation>Vous pouvez retrouver le code source sur :</translation>
+        <translation>Puoi trovare il codice sorgente su:</translation>
     </message>
     <message>
         <source>GitHub</source>
@@ -21,7 +21,7 @@
     </message>
     <message>
         <source>This program evolved to 8-ball. So, &quot;Chance.&quot; answers you with classical magic ball expressions. ;)</source>
-        <translation>Ce programme est inspiré de la 8-ball. Ainsi, &quot;Chance.&quot; vous répond avec les fameuses expressions de la boule magique. ;)</translation>
+        <translation>Questa app si è evoluta in 8-ball. Quindi, &quot;Chance.&quot; risponde con le tipiche espressioni della palla magica. ;)</translation>
     </message>
 </context>
 <context>
@@ -35,7 +35,7 @@
     <name>FirstPage</name>
     <message>
         <source>About</source>
-        <translation>À propos</translation>
+        <translation>Info</translation>
     </message>
     <message>
         <source>Chance.</source>
@@ -43,11 +43,11 @@
     </message>
     <message>
         <source>Go</source>
-        <translation>Aller</translation>
+        <translation>Vai</translation>
     </message>
     <message>
         <source>Click or shake!</source>
-        <translation>Cliquez ou secouer!</translation>
+        <translation>Premi o agita!</translation>
     </message>
 </context>
 </TS>
