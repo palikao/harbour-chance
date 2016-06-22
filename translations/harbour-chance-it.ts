@@ -47,7 +47,7 @@
     </message>
     <message>
         <source>Click or shake!</source>
-        <translation>Premi o scuoti!</translation>
+        <translation>Premi o agita!</translation>
     </message>
 </context>
 </TS>
